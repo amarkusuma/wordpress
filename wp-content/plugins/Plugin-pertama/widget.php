@@ -1,9 +1,8 @@
 <?php
-session_start();
-if (!isset($_SESSION['random'])) {
-    $_SESSION['random'] = rand(2, 4);
-}
-
+// session_start();
+// if (!isset($_SESSION['random'])) {
+//     $_SESSION['random'] = rand(2, 4);
+// }
 
 /*
 Plugin Name: Widget
